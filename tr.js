@@ -5,3 +5,4 @@ function getData(name){
 console.log(getData('test_more'));
 console.log(getData('t'));
 console.log(getData('adding'));
+console.log(getData('testing_rebase'));

@@ -2,4 +2,4 @@ function getData(name){
     return require('fs').readFileSync(name).toString();
 }
 
-console.log(getData('testing_rebase'));
+console.log(getData('test_more'));
